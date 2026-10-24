@@ -1,0 +1,14 @@
+metric,value
+bm25_search Hit@5,0.7
+bm25_search MRR,0.525
+bm25_search NDCG@5,0.318
+dense_search Hit@5,0.9
+dense_search MRR,0.5033
+dense_search NDCG@5,0.2627
+hybrid_search Hit@5,0.8
+hybrid_search MRR,0.475
+hybrid_search NDCG@5,0.3216
+Accuracy (all),0.7
+Accuracy (answerable),0.7
+Refusal rate (unanswerable),0.0
+Cites correct page (answerable),0.4

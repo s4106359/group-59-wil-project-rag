@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated files (rebuilt by the scripts)
+data/processed/embeddings.npy
+
+# Optional: uncomment if you don't want these in the repo
+# data/raw/*.pdf
+# data/processed/chunks.json
+# results/
